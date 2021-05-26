@@ -1,2 +1,2 @@
-# Crawling-Weibo-comments
-![request headers](https://github.com/leizhao150/Crawling-Weibo-comments/blob/main/headers.PNG)
+### 爬取微博评论
+模仿浏览器请求，获取微博评论数据。在使用之前，需要使用浏览器获取请求微博页面的头信息，并在程序进行修改。
